@@ -1,0 +1,118 @@
+/home/popovadmin/soft/clion-2017.3/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/popovadmin/projects/com/sunnygames/MagicGame
+-- The C compiler identification is GNU 4.9.4
+-- The CXX compiler identification is GNU 4.9.4
+-- Check for working C compiler: /usr/bin/cc
+-- Check for working C compiler: /usr/bin/cc -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: /usr/bin/c++
+-- Check for working CXX compiler: /usr/bin/c++ -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+It appears you are building natively for Linux with GCC
+-- chipmunk CHIPMUNK_LIBRARIES: /home/popovadmin/projects/com/sunnygames/MagicGame/cocos2d/external/chipmunk/prebuilt/linux/64-bit/libchipmunk.a
+-- curl CURL_LIBRARIES: 
+-- freetype2 FREETYPE_LIBRARIES: /home/popovadmin/projects/com/sunnygames/MagicGame/cocos2d/external/freetype2/prebuilt/linux/64-bit/libfreetype.a
+-- jpeg JPEG_LIBRARIES: /home/popovadmin/projects/com/sunnygames/MagicGame/cocos2d/external/jpeg/prebuilt/linux/64-bit/libjpeg.a
+-- png PNG_LIBRARIES: 
+-- tiff TIFF_LIBRARIES: /home/popovadmin/projects/com/sunnygames/MagicGame/cocos2d/external/tiff/prebuilt/linux/64-bit/libtiff.a
+-- webp WEBP_LIBRARIES: /home/popovadmin/projects/com/sunnygames/MagicGame/cocos2d/external/webp/prebuilt/linux/64-bit/libwebp.a
+-- websockets WEBSOCKETS_LIBRARIES: /home/popovadmin/projects/com/sunnygames/MagicGame/cocos2d/external/websockets/prebuilt/linux/64-bit/libwebsockets.a
+-- openssl OPENSSL_LIBRARIES: /home/popovadmin/projects/com/sunnygames/MagicGame/cocos2d/external/openssl/prebuilt/linux/64-bit/libssl.a;/home/popovadmin/projects/com/sunnygames/MagicGame/cocos2d/external/openssl/prebuilt/linux/64-bit/libcrypto.a
+-- bullet BULLET_LIBRARIES: /home/popovadmin/projects/com/sunnygames/MagicGame/cocos2d/external/bullet/prebuilt/linux/64-bit/libBulletDynamics.a;/home/popovadmin/projects/com/sunnygames/MagicGame/cocos2d/external/bullet/prebuilt/linux/64-bit/libBulletCollision.a;/home/popovadmin/projects/com/sunnygames/MagicGame/cocos2d/external/bullet/prebuilt/linux/64-bit/libBulletMultiThreaded.a;/home/popovadmin/projects/com/sunnygames/MagicGame/cocos2d/external/bullet/prebuilt/linux/64-bit/libLinearMath.a;/home/popovadmin/projects/com/sunnygames/MagicGame/cocos2d/external/bullet/prebuilt/linux/64-bit/libMiniCL.a
+-- fmod FMOD_LIBRARIES: /home/popovadmin/projects/com/sunnygames/MagicGame/cocos2d/external/linux-specific/fmod/prebuilt/64-bit/libfmod.so;/home/popovadmin/projects/com/sunnygames/MagicGame/cocos2d/external/linux-specific/fmod/prebuilt/64-bit/libfmod.so
+-- Found OpenGL: /usr/lib/x86_64-linux-gnu/libGL.so  
+-- OpenGL include dirs: /usr/include
+-- Found GLEW: /usr/include  
+-- GLEW include dirs: /usr/include
+-- Found PkgConfig: /usr/bin/pkg-config (found version "0.29.1") 
+-- PkgConfig found
+-- checking for module 'glfw3'
+--   found glfw3, version 3.2.0
+-- GLFW3 include dirs: /usr/local/include/GLFW
+-- Looking for pthread.h
+-- Looking for pthread.h - found
+-- Looking for pthread_create
+-- Looking for pthread_create - not found
+-- Looking for pthread_create in pthreads
+-- Looking for pthread_create in pthreads - not found
+-- Looking for pthread_create in pthread
+-- Looking for pthread_create in pthread - found
+-- Found Threads: TRUE  
+-- SQLite3 include dirs: /usr/include
+-- FMOD include dirs: /home/popovadmin/projects/com/sunnygames/MagicGame/cocos2d/external/linux-specific/fmod/include
+-- checking for one of the modules 'fontconfig'
+-- Found Fontconfig: TRUE (found version "2.11.94") 
+-- Fontconfig include dirs: /usr/include/freetype2
+-- Found GTK3: gtk-3;gdk-3;pangocairo-1.0;pango-1.0;atk-1.0;cairo-gobject;cairo;gdk_pixbuf-2.0;gio-2.0;gobject-2.0;glib-2.0  
+-- GTK3 include dirs: /usr/include/gtk-3.0;/usr/include/at-spi2-atk/2.0;/usr/include/at-spi-2.0;/usr/include/dbus-1.0;/usr/lib/x86_64-linux-gnu/dbus-1.0/include;/usr/include/gtk-3.0;/usr/include/gio-unix-2.0/;/usr/include/mirclient;/usr/include/mircore;/usr/include/mircookie;/usr/include/cairo;/usr/include/pango-1.0;/usr/include/harfbuzz;/usr/include/pango-1.0;/usr/include/atk-1.0;/usr/include/cairo;/usr/include/pixman-1;/usr/include/freetype2;/usr/include/libpng12;/usr/include/gdk-pixbuf-2.0;/usr/include/libpng12;/usr/include/glib-2.0;/usr/lib/x86_64-linux-gnu/glib-2.0/include
+-- Freetype include dirs: /home/popovadmin/projects/com/sunnygames/MagicGame/cocos2d/external/freetype2/include/linux;/home/popovadmin/projects/com/sunnygames/MagicGame/cocos2d/external/freetype2/include/linux
+-- WebP include dirs: /home/popovadmin/projects/com/sunnygames/MagicGame/cocos2d/external/webp/include/linux
+-- Chipmunk include dirs: /home/popovadmin/projects/com/sunnygames/MagicGame/cocos2d/external/chipmunk/include
+-- bullet include dirs: /home/popovadmin/projects/com/sunnygames/MagicGame/cocos2d/external/bullet/include;/home/popovadmin/projects/com/sunnygames/MagicGame/cocos2d/external/bullet/include/bullet
+-- Bullet include dirs: /home/popovadmin/projects/com/sunnygames/MagicGame/cocos2d/external/bullet/include;/home/popovadmin/projects/com/sunnygames/MagicGame/cocos2d/external/bullet/include/bullet
+-- Recast include dirs: /home/popovadmin/projects/com/sunnygames/MagicGame/cocos2d/external/recast
+-- TinyXML2 include dirs: /home/popovadmin/projects/com/sunnygames/MagicGame/cocos2d/external/tinyxml2
+-- JPEG include dirs: /home/popovadmin/projects/com/sunnygames/MagicGame/cocos2d/external/jpeg/include/linux
+-- Found ZLIB: /usr/lib/x86_64-linux-gnu/libz.so (found version "1.2.8") 
+-- ZLIB include dirs: /usr/include
+-- MINIZIP include dirs: /home/popovadmin/projects/com/sunnygames/MagicGame/cocos2d/external/unzip;/usr/include
+-- Found PNG: /usr/lib/x86_64-linux-gnu/libpng.so (found version "1.2.54") 
+-- PNG include dirs: /usr/include;/usr/include
+-- TIFF include dirs: /home/popovadmin/projects/com/sunnygames/MagicGame/cocos2d/external/tiff/include/linux
+-- WEBSOCKETS include dirs: /home/popovadmin/projects/com/sunnygames/MagicGame/cocos2d/external/websockets/include/linux
+-- CURL include dirs: 
+-- Flatbuffers include dirs: /home/popovadmin/projects/com/sunnygames/MagicGame/cocos2d/external
+-- OPENGL add to include_dirs: /usr/include
+-- OPENGL libs added to 'cocos2dInternal': /usr/lib/x86_64-linux-gnu/libGLU.so;/usr/lib/x86_64-linux-gnu/libGL.so
+-- GLEW add to include_dirs: /usr/include
+-- GLEW libs added to 'cocos2dInternal': /usr/lib/x86_64-linux-gnu/libGLEW.so
+-- GLFW3 add to include_dirs: /usr/local/include/GLFW
+-- GLFW3 add to link_dirs: /usr/local/lib
+-- GLFW3 libs added to 'cocos2dInternal': glfw
+-- GLFW3 add definitions: -DGLFW_DLL
+-- FMOD add to include_dirs: /home/popovadmin/projects/com/sunnygames/MagicGame/cocos2d/external/linux-specific/fmod/include
+-- FMOD libs added to 'cocos2dInternal': /home/popovadmin/projects/com/sunnygames/MagicGame/cocos2d/external/linux-specific/fmod/prebuilt/64-bit/libfmod.so;/home/popovadmin/projects/com/sunnygames/MagicGame/cocos2d/external/linux-specific/fmod/prebuilt/64-bit/libfmod.so
+-- FONTCONFIG add to include_dirs: /usr/include/freetype2
+-- FONTCONFIG libs added to 'cocos2dInternal': fontconfig;freetype
+-- THREADS libs added to 'cocos2dInternal': -lpthread
+-- GTK3 add to include_dirs: /usr/include/gtk-3.0;/usr/include/at-spi2-atk/2.0;/usr/include/at-spi-2.0;/usr/include/dbus-1.0;/usr/lib/x86_64-linux-gnu/dbus-1.0/include;/usr/include/gtk-3.0;/usr/include/gio-unix-2.0/;/usr/include/mirclient;/usr/include/mircore;/usr/include/mircookie;/usr/include/cairo;/usr/include/pango-1.0;/usr/include/harfbuzz;/usr/include/pango-1.0;/usr/include/atk-1.0;/usr/include/cairo;/usr/include/pixman-1;/usr/include/freetype2;/usr/include/libpng12;/usr/include/gdk-pixbuf-2.0;/usr/include/libpng12;/usr/include/glib-2.0;/usr/lib/x86_64-linux-gnu/glib-2.0/include
+-- GTK3 libs added to 'cocos2dInternal': gtk-3;gdk-3;pangocairo-1.0;pango-1.0;atk-1.0;cairo-gobject;cairo;gdk_pixbuf-2.0;gio-2.0;gobject-2.0;glib-2.0
+-- GTK3 add definitions: -pthread
+-- ZLIB add to include_dirs: /usr/include
+-- ZLIB libs added to 'cocos2dInternal': /usr/lib/x86_64-linux-gnu/libz.so
+-- MINIZIP add to include_dirs: /home/popovadmin/projects/com/sunnygames/MagicGame/cocos2d/external/unzip;/usr/include
+-- MINIZIP libs added to 'cocos2dInternal': unzip;/usr/lib/x86_64-linux-gnu/libz.so
+-- JPEG add to include_dirs: /home/popovadmin/projects/com/sunnygames/MagicGame/cocos2d/external/jpeg/include/linux
+-- JPEG libs added to 'cocos2dInternal': /home/popovadmin/projects/com/sunnygames/MagicGame/cocos2d/external/jpeg/prebuilt/linux/64-bit/libjpeg.a
+-- PNG add to include_dirs: /usr/include;/usr/include
+-- PNG libs added to 'cocos2dInternal': /usr/lib/x86_64-linux-gnu/libpng.so;/usr/lib/x86_64-linux-gnu/libz.so
+-- TIFF add to include_dirs: /home/popovadmin/projects/com/sunnygames/MagicGame/cocos2d/external/tiff/include/linux
+-- TIFF libs added to 'cocos2dInternal': /home/popovadmin/projects/com/sunnygames/MagicGame/cocos2d/external/tiff/prebuilt/linux/64-bit/libtiff.a
+-- TinyXML2 add to include_dirs: /home/popovadmin/projects/com/sunnygames/MagicGame/cocos2d/external/tinyxml2
+-- TinyXML2 libs added to 'cocos2dInternal': tinyxml2
+-- FREETYPE add to include_dirs: /home/popovadmin/projects/com/sunnygames/MagicGame/cocos2d/external/freetype2/include/linux;/home/popovadmin/projects/com/sunnygames/MagicGame/cocos2d/external/freetype2/include/linux
+-- FREETYPE libs added to 'cocos2dInternal': /home/popovadmin/projects/com/sunnygames/MagicGame/cocos2d/external/freetype2/prebuilt/linux/64-bit/libfreetype.a
+-- WEBSOCKETS add to include_dirs: /home/popovadmin/projects/com/sunnygames/MagicGame/cocos2d/external/websockets/include/linux
+-- WEBSOCKETS libs added to 'cocos2dInternal': /home/popovadmin/projects/com/sunnygames/MagicGame/cocos2d/external/websockets/prebuilt/linux/64-bit/libwebsockets.a
+-- CURL libs added to 'cocos2dInternal': curl
+-- OPENSSL add to include_dirs: /home/popovadmin/projects/com/sunnygames/MagicGame/cocos2d/external/openssl/include/linux
+-- OPENSSL libs added to 'cocos2dInternal': /home/popovadmin/projects/com/sunnygames/MagicGame/cocos2d/external/openssl/prebuilt/linux/64-bit/libssl.a;/home/popovadmin/projects/com/sunnygames/MagicGame/cocos2d/external/openssl/prebuilt/linux/64-bit/libcrypto.a
+-- FLATBUFFERS add to include_dirs: /home/popovadmin/projects/com/sunnygames/MagicGame/cocos2d/external
+-- XXHASH add to include_dirs: /home/popovadmin/projects/com/sunnygames/MagicGame/cocos2d/external/xxhash
+-- XXHASH libs added to 'cocos2dInternal': xxhash
+-- WEBP add to include_dirs: /home/popovadmin/projects/com/sunnygames/MagicGame/cocos2d/external/webp/include/linux
+-- WEBP libs added to 'cocos2dInternal': /home/popovadmin/projects/com/sunnygames/MagicGame/cocos2d/external/webp/prebuilt/linux/64-bit/libwebp.a
+-- CHIPMUNK add to include_dirs: /home/popovadmin/projects/com/sunnygames/MagicGame/cocos2d/external/chipmunk/include
+-- CHIPMUNK libs added to 'cocos2dInternal': /home/popovadmin/projects/com/sunnygames/MagicGame/cocos2d/external/chipmunk/prebuilt/linux/64-bit/libchipmunk.a
+-- BULLET add to include_dirs: /home/popovadmin/projects/com/sunnygames/MagicGame/cocos2d/external/bullet/include;/home/popovadmin/projects/com/sunnygames/MagicGame/cocos2d/external/bullet/include/bullet
+-- BULLET libs added to 'cocos2dInternal': /home/popovadmin/projects/com/sunnygames/MagicGame/cocos2d/external/bullet/prebuilt/linux/64-bit/libBulletDynamics.a;/home/popovadmin/projects/com/sunnygames/MagicGame/cocos2d/external/bullet/prebuilt/linux/64-bit/libBulletCollision.a;/home/popovadmin/projects/com/sunnygames/MagicGame/cocos2d/external/bullet/prebuilt/linux/64-bit/libBulletMultiThreaded.a;/home/popovadmin/projects/com/sunnygames/MagicGame/cocos2d/external/bullet/prebuilt/linux/64-bit/libLinearMath.a;/home/popovadmin/projects/com/sunnygames/MagicGame/cocos2d/external/bullet/prebuilt/linux/64-bit/libMiniCL.a
+-- RECAST add to include_dirs: /home/popovadmin/projects/com/sunnygames/MagicGame/cocos2d/external/recast
+-- RECAST libs added to 'cocos2dInternal': recast
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/popovadmin/projects/com/sunnygames/MagicGame/cmake-build-debug

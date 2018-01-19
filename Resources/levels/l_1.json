@@ -1,0 +1,576 @@
+{
+  "width"   : 7,
+  "height"  : 7,
+  "grid"    :[
+    [
+      {
+        "cell"    :{
+          "type"  : "empty",
+          "view"  : "groundCell"
+        },
+        "object"  :{
+          "type"    : "Unit",
+          "movable" : false,
+          "isWall"  : true,
+          "view"    : "wallCell"
+        }
+      },
+      {
+        "cell"    :{
+          "type"  : "empty",
+          "view"  : "groundCell"
+        },
+        "object"  :{
+          "type"    : "Unit",
+          "movable" : false,
+          "isWall"  : true,
+          "view"    : "wallCell"
+        }
+      },
+      {
+        "cell"    :{
+          "type"  : "empty",
+          "view"  : "groundCell"
+        },
+        "object"  :{
+          "type"    : "Unit",
+          "movable" : false,
+          "isWall"  : true,
+          "view"    : "wallCell"
+        }
+      },
+      {
+        "cell"    :{
+          "type"  : "empty",
+          "view"  : "groundCell"
+        },
+        "object"  :{
+          "type"    : "Unit",
+          "movable" : false,
+          "isWall"  : true,
+          "view"    : "wallCell"
+        }
+      },
+      {
+        "cell"    :{
+          "type"  : "empty",
+          "view"  : "groundCell"
+        },
+        "object"  :{
+          "type"    : "Unit",
+          "movable" : false,
+          "isWall"  : true,
+          "view"    : "wallCell"
+        }
+      },
+      {
+        "cell"    :{
+          "type"  : "empty",
+          "view"  : "groundCell"
+        },
+        "object"  :{
+          "type"    : "Unit",
+          "movable" : false,
+          "isWall"  : true,
+          "view"    : "wallCell"
+        }
+      },
+      {
+        "cell"    :{
+          "type"  : "empty",
+          "view"  : "groundCell"
+        },
+        "object"  :{
+          "type"    : "Unit",
+          "movable" : false,
+          "isWall"  : true,
+          "view"    : "wallCell"
+        }
+      }
+    ],
+    [
+      {
+        "cell"    :{
+          "type"  : "empty",
+          "view"  : "groundCell"
+        },
+        "object"  :{
+          "type"    : "Unit",
+          "movable" : false,
+          "isWall"  : true,
+          "view"    : "wallCell"
+        }
+      },
+      {
+        "cell"    :{
+          "type"  : "empty",
+          "view"  : "groundCell"
+        },
+        "object"  :{
+          "type"    : "Unit",
+          "movable" : false,
+          "isWall"  : true,
+          "view"    : "wallCell"
+        }
+      },
+      {
+        "cell"    :{
+          "type"  : "empty",
+          "view"  : "groundCell"
+        },
+        "object"  :{
+          "type"    : "empty"
+
+        }
+      },
+      {
+        "cell"    :{
+          "type"  : "empty",
+          "view"  : "groundCell"
+        },
+        "object"  :{
+          "type"    : "empty"
+
+        }
+      },
+      {
+        "cell"    :{
+          "type"  : "empty",
+          "view"  : "groundCell"
+        },
+        "object"  :{
+          "type"    : "empty"
+
+        }
+      },
+      {
+        "cell"    :{
+          "type"  : "empty",
+          "view"  : "groundCell"
+        },
+        "object"  :{
+          "type"    : "Unit",
+          "movable" : false,
+          "isWall"  : true,
+          "view"    : "wallCell"
+        }
+      },
+      {
+        "cell"    :{
+          "type"  : "empty",
+          "view"  : "groundCell"
+        },
+        "object"  :{
+          "type"    : "Unit",
+          "movable" : false,
+          "isWall"  : true,
+          "view"    : "wallCell"
+        }
+      }
+    ],
+    [
+      {
+        "cell"    :{
+          "type"  : "empty",
+          "view"  : "groundCell"
+        },
+        "object"  :{
+          "type"    : "Unit",
+          "movable" : false,
+          "isWall"  : true,
+          "view"    : "wallCell"
+        }
+      },
+      {
+        "cell"    :{
+          "type"  : "empty",
+          "view"  : "groundCell"
+        },
+        "object"  :{
+          "type"    : "empty"
+
+        }
+      },
+      {
+        "cell"    :{
+          "type"  : "empty",
+          "view"  : "groundCell"
+        },
+        "object"  :{
+          "type"    : "empty"
+
+        }
+      },
+      {
+        "cell"    :{
+          "type"  : "empty",
+          "view"  : "groundCell"
+        },
+        "object"  :{
+          "type"    : "empty"
+
+        }
+      },
+      {
+        "cell"    :{
+          "type"  : "empty",
+          "view"  : "groundCell"
+        },
+        "object"  :{
+          "type"    : "empty"
+
+        }
+      },
+      {
+        "cell"    :{
+          "type"  : "empty",
+          "view"  : "groundCell"
+        },
+        "object"  :{
+          "type"    : "empty"
+
+        }
+      },
+      {
+        "cell"    :{
+          "type"  : "empty",
+          "view"  : "groundCell"
+        },
+        "object"  :{
+          "type"    : "Unit",
+          "movable" : false,
+          "isWall"  : true,
+          "view"    : "wallCell"
+        }
+      }
+    ],
+    [
+      {
+        "cell"    :{
+          "type"  : "empty",
+          "view"  : "groundCell"
+        },
+        "object"  :{
+          "type"    : "Unit",
+          "movable" : false,
+          "isWall"  : true,
+          "view"    : "wallCell"
+        }
+      },
+      {
+        "cell"    :{
+          "type"  : "empty",
+          "view"  : "groundCell"
+        },
+        "object"  :{
+          "type"    : "empty"
+
+        }
+      },
+      {
+        "cell"    :{
+          "type"  : "empty",
+          "view"  : "groundCell"
+        },
+        "object"  :{
+          "type"    : "empty"
+
+        }
+      },
+      {
+        "cell"    :{
+          "type"  : "empty",
+          "view"  : "groundCell"
+        },
+        "object"  :{
+          "type"    : "empty"
+
+        }
+      },
+      {
+        "cell"    :{
+          "type"  : "empty",
+          "view"  : "groundCell"
+        },
+        "object"  :{
+          "type"    : "empty"
+
+        }
+      },
+      {
+        "cell"    :{
+          "type"  : "empty",
+          "view"  : "groundCell"
+        },
+        "object"  :{
+          "type"    : "empty"
+
+        }
+      },
+      {
+        "cell"    :{
+          "type"  : "empty",
+          "view"  : "groundCell"
+        },
+        "object"  :{
+          "type"    : "Unit",
+          "movable" : false,
+          "isWall"  : true,
+          "view"    : "wallCell"
+        }
+      }
+    ],
+    [
+      {
+        "cell"    :{
+          "type"  : "empty",
+          "view"  : "groundCell"
+        },
+        "object"  :{
+          "type"    : "Unit",
+          "movable" : false,
+          "isWall"  : true,
+          "view"    : "wallCell"
+        }
+      },
+      {
+        "cell"    :{
+          "type"  : "empty",
+          "view"  : "groundCell"
+        },
+        "object"  : {
+          "type"      : "Bottle",
+          "subType"   : "greenBottle",
+          "movable"   : true,
+          "isWall"    : true,
+          "level"     : 1
+        }
+      },
+      {
+        "cell"    :{
+          "type"  : "empty",
+          "view"  : "groundCell"
+        },
+        "object"  :{
+          "type"    : "Unit",
+          "movable" : false,
+          "isWall"  : true,
+          "view"    : "wallCell"
+        }
+      },
+      {
+        "cell"    :{
+          "type"  : "empty",
+          "view"  : "groundCell"
+        },
+        "object"  : {
+          "type"      : "Bottle",
+          "subType"   : "greenBottle",
+          "movable"   : true,
+          "isWall"    : true,
+          "level"     : 1
+        }
+      },
+      {
+        "cell"    :{
+          "type"  : "empty",
+          "view"  : "groundCell"
+        },
+        "object"  :{
+          "type"    : "Unit",
+          "movable" : false,
+          "isWall"  : true,
+          "view"    : "wallCell"
+        }
+      },
+      {
+        "cell"    :{
+          "type"  : "TargetCell",
+          "view"  : "targetCell"
+        },
+        "object"  :{
+          "type"    : "empty"
+
+        }
+      },
+      {
+        "cell"    :{
+          "type"  : "empty",
+          "view"  : "groundCell"
+        },
+        "object"  :{
+          "type"    : "Unit",
+          "movable" : false,
+          "isWall"  : true,
+          "view"    : "wallCell"
+        }
+      }
+    ],
+    [
+      {
+        "cell"    :{
+          "type"  : "empty",
+          "view"  : "groundCell"
+        },
+        "object"  :{
+          "type"    : "Unit",
+          "movable" : false,
+          "isWall"  : true,
+          "view"    : "wallCell"
+        }
+      },
+      {
+        "cell"    :{
+          "type"  : "empty",
+          "view"  : "groundCell"
+        },
+        "object"  :{
+          "type"    : "Unit",
+          "movable" : false,
+          "isWall"  : true,
+          "view"    : "wallCell"
+        }
+      },
+      {
+        "cell"    :{
+          "type"  : "empty",
+          "view"  : "groundCell"
+        },
+        "object"  :{
+          "type"    : "empty"
+
+        }
+      },
+      {
+        "cell"    :{
+          "type"  : "empty",
+          "view"  : "groundCell"
+        },
+        "object"  :{
+          "type"    : "empty"
+
+        }
+      },
+      {
+        "cell"    :{
+          "type"  : "empty",
+          "view"  : "groundCell"
+        },
+        "object"  :{
+          "type"    : "empty"
+
+        }
+      },
+      {
+        "cell"    :{
+          "type"  : "empty",
+          "view"  : "groundCell"
+        },
+        "object"  :{
+          "type"    : "Unit",
+          "movable" : false,
+          "isWall"  : true,
+          "view"    : "wallCell"
+        }
+      },
+      {
+        "cell"    :{
+          "type"  : "empty",
+          "view"  : "groundCell"
+        },
+        "object"  :{
+          "type"    : "Unit",
+          "movable" : false,
+          "isWall"  : true,
+          "view"    : "wallCell"
+        }
+      }
+    ],
+    [
+      {
+        "cell"    :{
+          "type"  : "empty",
+          "view"  : "groundCell"
+        },
+        "object"  :{
+          "type"    : "Unit",
+          "movable" : false,
+          "isWall"  : true,
+          "view"    : "wallCell"
+        }
+      },
+      {
+        "cell"    :{
+          "type"  : "empty",
+          "view"  : "groundCell"
+        },
+        "object"  :{
+          "type"    : "Unit",
+          "movable" : false,
+          "isWall"  : true,
+          "view"    : "wallCell"
+        }
+      },
+      {
+        "cell"    :{
+          "type"  : "empty",
+          "view"  : "groundCell"
+        },
+        "object"  :{
+          "type"    : "Unit",
+          "movable" : false,
+          "isWall"  : true,
+          "view"    : "wallCell"
+        }
+      },
+      {
+        "cell"    :{
+          "type"  : "empty",
+          "view"  : "groundCell"
+        },
+        "object"  :{
+          "type"    : "Unit",
+          "movable" : false,
+          "isWall"  : true,
+          "view"    : "wallCell"
+        }
+      },
+      {
+        "cell"    :{
+          "type"  : "empty",
+          "view"  : "groundCell"
+        },
+        "object"  :{
+          "type"    : "Unit",
+          "movable" : false,
+          "isWall"  : true,
+          "view"    : "wallCell"
+        }
+      },
+      {
+        "cell"    :{
+          "type"  : "empty",
+          "view"  : "groundCell"
+        },
+        "object"  :{
+          "type"    : "Unit",
+          "movable" : false,
+          "isWall"  : true,
+          "view"    : "wallCell"
+        }
+      },
+      {
+        "cell"    :{
+          "type"  : "empty",
+          "view"  : "groundCell"
+        },
+        "object"  :{
+          "type"    : "Unit",
+          "movable" : false,
+          "isWall"  : true,
+          "view"    : "wallCell"
+        }
+      }
+    ]
+  ]
+}

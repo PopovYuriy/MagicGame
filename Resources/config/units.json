@@ -1,0 +1,19 @@
+{
+  "bottles" : [
+    {
+      "subType"     : "greenBottle",
+      "maxLevel"    : 3,
+      "textures"    : ["greenBottle", "greenBottle1", "greenBottle2"]
+    },
+    {
+      "subType"     :"redBottle",
+      "maxLevel"    : 3,
+      "textures"    : ["redBottle", "redBottle1", "redBottle2"]
+    },
+    {
+      "subType"     :"blueBottle",
+      "maxLevel"    : 3,
+      "textures"    : ["blueBottle", "blueBottle1", "blueBottle2"]
+    }
+  ]
+}
